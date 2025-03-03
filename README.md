@@ -2,4 +2,4 @@
 
 #### Instalação
 
-'sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/brunosilvafreitass/script/refs/heads/main/script)"'
+`sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/brunosilvafreitass/ubuntu_script/refs/heads/main/script.sh)"`
