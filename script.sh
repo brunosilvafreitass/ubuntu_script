@@ -31,6 +31,8 @@ apt-get update && \
   apt-get install -y aspnetcore-runtime-6.0
 apt install zlib1g
 
+#install dotnet-ef globalmente
+dotnet tool install --global dotnet-ef
 
 # Instalar o Flatpak e plugin para GNOME Software
 apt install flatpak -y
