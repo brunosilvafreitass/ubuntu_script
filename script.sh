@@ -42,7 +42,7 @@ apt install gnome-software-plugin-flatpak -y
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 # Flatpak Boxes
-flatpak install flathub org.gnome.Boxes -y
+#flatpak install flathub org.gnome.Boxes -y
 # Flatpak Spotify
 flatpak install flathub com.spotify.Client -y
 
